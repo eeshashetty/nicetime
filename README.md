@@ -4,6 +4,11 @@ Your time, but nicer
 ## About this Project
 This is a joke package, made to amuse my friends in Java Lab. If you want to use it or improve on it, please go ahead.
 
+## Installation
+```
+pip install -i https://test.pypi.org/simple/ NiceTime==0.0.1
+```
+
 ## Usage
 ```python
 import nicetime
