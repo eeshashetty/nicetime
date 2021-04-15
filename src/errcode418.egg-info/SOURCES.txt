@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/errcode418.egg-info/PKG-INFO
+src/errcode418.egg-info/SOURCES.txt
+src/errcode418.egg-info/dependency_links.txt
+src/errcode418.egg-info/top_level.txt
+src/nicetime/__init__.py
