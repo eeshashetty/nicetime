@@ -23,4 +23,9 @@ t.print() # should print 02:69:12
 t = nicetime.time(4,10,9)
 t.print() # should print 03:69:69
 
+# can convert current time as well
+
+t = nicetime.now()
+t.print()
+
 ```
